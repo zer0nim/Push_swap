@@ -45,7 +45,7 @@ Generate instructions :
 
 ./push_swap `number_list`
 
-#### Exemple
+#### Example
 
 ```
 $> ./push_swap 5 3 1 2 6
